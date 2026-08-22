@@ -1,0 +1,1 @@
+# Sistema de Ventas y Gestión de Inventario
